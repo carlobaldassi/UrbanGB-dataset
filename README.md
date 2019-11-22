@@ -17,7 +17,7 @@ also discarded (see below for more details).
 
 The license for this data is the [Open Government Licence] used by all data on data.gov.uk. The raw
 datasets are available from the UK Department of Transport website
-[here](https://www.dft.gov.uk/traffic-counts/download.php).
+[here](https://www.dft.gov.uk/traffic-counts).
 
 The file "urbanGB.labels.txt" contains a labelling of the points that roughly reflects their
 partitioning in urban centers, in numeric format: each row contains a label between 1 and 469
